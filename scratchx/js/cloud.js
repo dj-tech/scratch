@@ -25,9 +25,9 @@
     // Block and block menu descriptions
     var descriptor = {
         blocks: [
-            ['R', '?%s from fongshek project ID %n', 'grab'],
+            ['R', '?%s from fm ID %n', 'grab'],
         ],
-        url: 'http://technoboy10.tk/'
+        url: 'http://fongshek.github.io/'
     };
 
 
