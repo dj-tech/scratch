@@ -1,0 +1,10 @@
+http://scratchx.org/?url=https://cdn.rawgit.com/sayamindu/scratch-extensions/master/alarm_extension.js#scratch
+
+http://djdolphin.github.io/scratchx/ambientlight.js
+
+
+http://scratchx.org/?url=http://technoboy10.github.io/scratchx/cloud.js#scratch
+
+http://scratchx.org/?url=http://fongshek.github.io/scratch/scratchx/js/cloud.js#scratch
+http://scratchx.org/?url=http://fongshek.github.io/scratch/scratchx/js/fmBlock.js#scratch
+http://scratchx.org/?url=http://fongshek.github.io/scratch/scratchx/js/fmWait.js#scratch
