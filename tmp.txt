@@ -8,3 +8,4 @@ http://scratchx.org/?url=http://technoboy10.github.io/scratchx/cloud.js#scratch
 http://scratchx.org/?url=http://fongshek.github.io/scratch/scratchx/js/cloud.js#scratch
 http://scratchx.org/?url=http://fongshek.github.io/scratch/scratchx/js/fmBlock.js#scratch
 http://scratchx.org/?url=http://fongshek.github.io/scratch/scratchx/js/fmWait.js#scratch
+http://scratchx.org/?url=http://fongshek.github.io/scratch/scratchx/js/fmReport.js#scratch
