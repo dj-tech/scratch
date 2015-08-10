@@ -24,7 +24,7 @@
     // Block and block menu descriptions
     var descriptor = {
         blocks: [
-            ['R', 'current temperature in city %s', 'get_temp', 'Hong Kong'],
+            ['R', 'temperature in %s', 'get_temp', 'Hong Kong'],
         ]
     };
 
