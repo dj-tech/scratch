@@ -8,15 +8,16 @@
         return {status: 2, msg: 'Ready'};
     };
 
-    ext.my_first_block = function() {
+    ext.myCmd_Call = function() {
         // Code that gets executed when the block is run
+		alert("I am an alert box!");
     };
 
     // Block and block menu descriptions
     var descriptor = {
         blocks: [
             // Block type, block name, function name
-            [' ', 'my first block', 'my_first_block'],
+            [' ', 'myCmd', 'myCmd_Call'],
         ]
     };
 
