@@ -63,5 +63,5 @@
     };
 
     // Register the extension
-    ScratchExtensions.register('Weather extension', descriptor, ext);
+    ScratchExtensions.register('fmSampleExt', descriptor, ext);
 })({});
