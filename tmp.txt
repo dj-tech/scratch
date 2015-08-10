@@ -10,4 +10,5 @@ http://scratchx.org/?url=http://fongshek.github.io/scratch/scratchx/js/fmBlock.j
 http://scratchx.org/?url=http://fongshek.github.io/scratch/scratchx/js/fmWait.js#scratch
 http://scratchx.org/?url=http://fongshek.github.io/scratch/scratchx/js/fmReport.js#scratch
 http://scratchx.org/?url=http://fongshek.github.io/scratch/scratchx/js/fmGetWeather.js#scratch
+http://scratchx.org/?url=http://fongshek.github.io/scratch/scratchx/js/fmExample.js#scratch
 
