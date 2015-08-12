@@ -10,7 +10,8 @@
 
     ext.myCmd_Call = function() {
         // Code that gets executed when the block is run
-		alert("I am an alert box!");
+		//alert("I am an alert box!");
+		console.log("I am called");
     };
 
     // Block and block menu descriptions
