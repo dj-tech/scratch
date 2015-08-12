@@ -12,7 +12,22 @@
         // Code that gets executed when the block is run
 		//alert("I am an alert box!");
 		console.log("I am called");
+		console.log(myMother.lastName);
+
     };
+
+	function person(firstName,lastName,age,eyeColor) {
+    this.firstName = firstName;
+    this.lastName = lastName;
+    this.age = age;
+    this.eyeColor = eyeColor;
+    this.changeName = function (name) {
+        this.lastName = name;
+		}
+	}
+
+	var myMother = new person("Sally","Rally",48,"green");
+
 
     // Block and block menu descriptions
     var descriptor = {
@@ -23,5 +38,5 @@
     };
 
     // Register the extension
-    ScratchExtensions.register('My first extension', descriptor, ext);
+    ScratchExtensions.register('fmTest', descriptor, ext);
 })({});
