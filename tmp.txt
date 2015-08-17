@@ -20,3 +20,5 @@ http://scratchx.org/?url=http://technoboy10.github.io/mesh/mesh.js
 
 
 http://scratchx.org/?url=http://fongshek.github.io/scratch/scratchx/js/fmTest.js#scratch
+
+http://scratchx.org/?url=http://lubuntu_iot/scratch/scratch/scratchx/js/fmTest.js#scratch
